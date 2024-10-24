@@ -10,6 +10,7 @@ let addresses = [
 	'www.baidu.com#优选官方线路',
 	'www.google.com#优选官方线路',
 	'www.china.com#优选官方线路',
+	'www.sb.com#优选官方线路',
 ];
 
 // 设置优选地址api接口
