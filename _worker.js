@@ -5,6 +5,7 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
+	/*
 	'icook.tw:2053#官方优选域名',
 	'www.japan.com#优选官方线路',
 	'icook.tw#官方优选域名',
@@ -115,6 +116,8 @@ let addresses = [
 	'cf-st.annoy.eu.org#其它优选域名',
 	'cf.0sm.com#其它优选域名',
 	'cf.877771.xyz#其它优选域名',
+	'cf.345673.xyz#其它优选域名',
+ 	*/
 	'cf.345673.xyz#其它优选域名',
 ];
 
